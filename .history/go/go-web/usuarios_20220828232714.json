@@ -1,0 +1,27 @@
+[
+    {
+        "id":10001,
+        "auto":"Volkswagen",
+        "modelo":"Siroco",
+        "año":2019
+    },
+    {
+        "id":10002,
+        "auto":"Volkswagen",
+        "modelo":"Gol",
+        "año":2009
+    },
+    {
+        "id":10003,
+        "auto":"Chevrolet",
+        "modelo":"Cruce RZ",
+        "año":2020  
+    },
+    {
+        "id":10004,
+        "auto":"Chevrolet",
+        "modelo":"Mustang",
+        "año":2021  
+    }
+
+]
